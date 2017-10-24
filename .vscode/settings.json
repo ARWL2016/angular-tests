@@ -1,0 +1,15 @@
+{
+  "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "src/**/**/*.spec.ts": false,
+        "src/**/**/*.spec.js": true,
+        "src/**/**/*.js.map": true,
+        "src/**/**/*.js": true,
+        "**/*.log": true,
+        "e2e": true
+    },
+}
